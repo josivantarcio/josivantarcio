@@ -1,16 +1,33 @@
-### Hi there 👋
+# Cover Letter 📄
 
-<!--
-**josivantarcio/josivantarcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 💼
 
-Here are some ideas to get you started:
+- **Name:** Oliveira, Josevan
+- **Location:** Limoeiro do Norte, Brazil 🌍
+- **Email:** josivantarcio@msn.com 📧
+- **LinkedIn:** (https://www.linkedin.com/in/josevanoliveirati/) 🔗
+- **Instagram:** https://www.instagram.com/josivantarcio/💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Career Summary 🚀
+
+I began my career in 2010 as a consultant and am currently serving as a developer for a corporate application. I'm well-versed in the Java, Python, and C# programming languages. Additionally, I have hands-on experience with Hibernate, Spring Boot, and Oracle Apex. I also possess a basic understanding of MS Power BI.
+
+## Experience 🛠️
+
+I've collaborated within various teams, engaging in diverse projects that have enabled me to accumulate proficiency in different technologies. My primary focus has been on monitoring projects, application maintenance, and crafting business solutions. I efficiently utilize Trello, employing the KANBAN mode for workflow creation and issue management. I'm also well-acquainted with SCRUM methodologies.
+
+## Version Control & Collaboration 🤝
+
+For version control, I rely on GitHub to manage projects effectively. I take pride in my strong team spirit and cooperative approach to projects. 👩‍💻
+
+## Education 🎓
+
+- **Degree Obtained:** Systems Analysis and Development 
+- **Institution:** UNOPAR - Universidade Norte do Paraná
+- **Period:** 2008 - 2011 📚
+
+## Contact 📬
+
+- **Email:** josivantarcio@msn.com 📧
+- **LinkedIn:** (https://www.linkedin.com/in/josevanoliveirati/) 🔗
+- **Instagram:** https://www.instagram.com/josivantarcio/💻
