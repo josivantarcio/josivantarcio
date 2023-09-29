@@ -1,6 +1,4 @@
-# Cover Letter 📄
-
-## About Me 💼
+# About Me 💼
 
 - **Name:** Oliveira, Josevan
 - **Location:** Limoeiro do Norte, Brazil 🌍
