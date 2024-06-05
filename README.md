@@ -44,9 +44,15 @@ I started my career in 2010 as a consultant and currently work as a developer in
 
 ## Contact
 
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/josevanoliveirati" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/josivantarcio/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/josivantarcio" target="_blank" title="Telegram"><img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:josivantarcio@msn.com" target="_blank" title="Hotmail"><img src="https://img.shields.io/badge/-Hotmail-%23EA4335?style=for-the-badge&logo=hotmail&logoColor=white"></a>
+  <a href="https://x.com/josivantarcio" target="_blank" title="X"><img src="https://img.shields.io/badge/-X-9cf?style=for-the-badge&logo=x&logoColor=white"></a>
 </div>
+
+---
+
+This README was created to highlight my skills, experience, and contact information. Feel free to reach out and learn more about my work!
+```
