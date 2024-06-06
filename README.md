@@ -1,3 +1,14 @@
+# 👋 Welcome to my profile!
+
+## About Me
+
+- 👨‍💻 **Name:** Josevan Tárcio Silva de Oliveira
+- 🌍 **Location:** Limoeiro do Norte, Brazil
+
+## Career Summary
+
+I started my career in 2010 as a consultant and currently work as a developer in a corporate application. I have experience in various programming languages and technologies, focusing on Java, Python, C#, JPA, microservices, and SQL. Additionally, I am knowledgeable in Hibernate, Spring Boot, Oracle Apex, MongoDB, and MySQL.
+
 <div>
   <a href="https://github.com/josivantarcio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josivantarcio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -23,17 +34,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-# 👋 Welcome to my profile!
-
-## About Me
-
-- 👨‍💻 **Name:** Josevan Tárcio Silva de Oliveira
-- 🌍 **Location:** Limoeiro do Norte, Brazil
-
-## Career Summary
-
-I started my career in 2010 as a consultant and currently work as a developer in a corporate application. I have experience in various programming languages and technologies, focusing on Java, Python, C#, JPA, microservices, and SQL. Additionally, I am knowledgeable in Hibernate, Spring Boot, Oracle Apex, MongoDB, and MySQL.
-
 ## Technologies I Master
 
 - Java, Spring
@@ -41,7 +41,7 @@ I started my career in 2010 as a consultant and currently work as a developer in
 - HTML5, CSS3
 - Angular, Vue.js, React
 - PostgreSQL, MySQL, MongoDB, SQL
-- Git, Maven, Spring Data JPA
+- Git, Maven, Spring Data JPA and Spring Data MongoDB
 
 ## Contact
 
