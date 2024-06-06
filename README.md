@@ -25,16 +25,16 @@
 
 # 👋 Welcome to my profile!
 
-## About Me ℹ️
+## About Me
 
 - 👨‍💻 **Name:** Josevan Tárcio Silva de Oliveira
 - 🌍 **Location:** Limoeiro do Norte, Brazil
 
-## Career Summary 🚀
+## Career Summary
 
 I started my career in 2010 as a consultant and currently work as a developer in a corporate application. I have experience in various programming languages and technologies, focusing on Java, Python, C#, JPA, microservices, and SQL. Additionally, I am knowledgeable in Hibernate, Spring Boot, Oracle Apex, MongoDB, and MySQL.
 
-## Technologies I Master 💻
+## Technologies I Master
 
 - Java, Spring
 - Python, C#, JavaScript, TypeScript
@@ -43,7 +43,7 @@ I started my career in 2010 as a consultant and currently work as a developer in
 - PostgreSQL, MySQL, MongoDB, SQL
 - Git, Maven, Spring Data JPA
 
-## Contact 📬
+## Contact
 
 <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/josevanoliveirati" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -51,5 +51,5 @@ I started my career in 2010 as a consultant and currently work as a developer in
   <a href="https://t.me/josivantarcio" target="_blank" title="Telegram"><img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:josivantarcio@msn.com" target="_blank" title="Hotmail"><img src="https://img.shields.io/badge/-Hotmail-%23EA4335?style=for-the-badge&logo=hotmail&logoColor=white"></a>
   <a href="https://x.com/josivantarcio" target="_blank" title="X"><img src="https://img.shields.io/badge/-X-9cf?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/735372665744916481" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
