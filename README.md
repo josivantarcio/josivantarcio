@@ -36,6 +36,8 @@ I started my career in 2010 as a consultant and currently work as a developer in
   <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ubuntu" height="30" src="https://img.icons8.com/color/48/000000/ubuntu.png">
+  <img align="center" alt="Linux" height="30" src="https://img.icons8.com/color/48/000000/linux.png">
 </div>
 
 ## Technologies I Master
