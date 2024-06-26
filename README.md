@@ -9,9 +9,9 @@
 
 <p align="justify">
 I started my career in 2010 as a consultant and currently work as a developer in a corporate application. I have experience in various programming languages and technologies, focusing on Java, Python, C#, JPA, microservices, and SQL. Additionally, I am knowledgeable in Hibernate, Spring Boot, Oracle Apex, MongoDB, and MySQL.
+</p>
 
 #Java #Spring #JavaScript #TypeScript #HTML5 #CSS3 #Angular #VueJS #React #PostgreSQL #MySQL #MongoDB #SQL #Git #Maven #SpringBoot #Hibernate #Microservices
-</p>
 
 <div align="center">
   <a href="https://github.com/josivantarcio">
@@ -20,7 +20,7 @@ I started my career in 2010 as a consultant and currently work as a developer in
   </a>
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<div align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
