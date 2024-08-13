@@ -11,7 +11,7 @@
 I started my career in 2010 as a consultant and currently work as a developer in a corporate application. I have experience in various programming languages and technologies, focusing on Java, Python, C#, JPA, microservices, and SQL. Additionally, I am knowledgeable in Hibernate, Spring Boot, Oracle Apex, MongoDB, and MySQL.
 </p>
 
-#Java #Spring #JavaScript #TypeScript #HTML5 #CSS3 #Angular #VueJS #React #PostgreSQL #MySQL #MongoDB #SQL #Git #Maven #SpringBoot #Hibernate #Microservices
+#Java #Spring #JavaScript #TypeScript #HTML5 #CSS3 #React #Redux #Node #Express #PostgreSQL #MySQL #MongoDB #SQL #Git #Maven #SpringBoot #Hibernate #Microservices
 
 <div align="center">
   <a href="https://github.com/josivantarcio">
@@ -29,12 +29,13 @@ I started my career in 2010 as a consultant and currently work as a developer in
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png">
+  <img align="center" alt="Express.js" height="30" width="40" src="https://img.icons8.com/color/48/000000/express.png">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Ubuntu" height="30" src="https://img.icons8.com/color/48/000000/ubuntu.png">
   <img align="center" alt="Linux" height="30" src="https://img.icons8.com/color/48/000000/linux.png">
@@ -45,7 +46,7 @@ I started my career in 2010 as a consultant and currently work as a developer in
 - Java, Spring
 - Python, C#, JavaScript, TypeScript
 - HTML5, CSS3
-- Angular, Vue.js, React
+- React, Redux, Node.js, Express.js
 - PostgreSQL, MySQL, MongoDB, SQL
 - Git, Maven, Spring Data JPA and Spring Data MongoDB
 
