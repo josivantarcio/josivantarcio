@@ -3,7 +3,7 @@
 ## About Me
 
 - 👨‍💻 **Name:** Josevan Tárcio Silva de Oliveira
-- 🌍 **Location:** Aracati-CE, Brazil
+- 🌍 **Location:** Limoeiro do Norte-CE, Brazil
 
 ## Career Summary
 
