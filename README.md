@@ -43,18 +43,16 @@ Currently enhancing advanced English skills through courses, podcasts, movies, a
 
 - Data Engineering
 - Software Engineering
-- Java, Spring
-- Python, JavaScript
-- HTML5, CSS3
-- React, Node.js
+- Java
+- Python
 - PostgreSQL, MySQL, MongoDB, SQL
-- Git, Maven, Spring Boot
+- Git
 - AWS
 
 ## Contact
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/josevanoliveirati" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/josevanoliveira" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/josivantarcio/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/josivantarcio" target="_blank" title="Telegram"><img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:josivantarcio@msn.com" target="_blank" title="Hotmail"><img src="https://img.shields.io/badge/-Hotmail-%23EA4335?style=for-the-badge&logo=hotmail&logoColor=white"></a>
