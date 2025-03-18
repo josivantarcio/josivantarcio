@@ -8,9 +8,7 @@
 ## Career Summary
 
 <p align="justify">
-Technical Leader and Software Engineer with over 10 years of experience in software architecture, information security, machine learning, and full-stack development. Passionate about scalable solutions and technological innovation, with strong expertise in creating microservices, DevSecOps, and cloud computing (AWS, Azure, GCP).
-Currently, developing AI solutions, RESTful and GraphQL APIs, serverless computing, machine learning applied to business, and OWASP security. Holds an MBA in Software Engineering from USP, in addition to specializations in Big Data and Project Management. Certified in Scrum and AWS, always staying updated with best practices in MLOps and system scalability.
-Currently enhancing advanced English skills through courses, podcasts, movies, and daily conversations, expanding technical vocabulary and fluency in international meetings.
+Technical Leader and Software Engineer with 10+ years in software architecture, security, ML, and full-stack development. Expert in microservices, DevSecOps, and cloud (AWS, Azure, GCP). Develops AI solutions, REST/GraphQL APIs, serverless computing, and OWASP security. Holds an MBA (USP) and specializations in Big Data & Project Management. Certified in Scrum & AWS, focused on MLOps and scalable systems. Improving advanced English for technical fluency.
 </p>
 
 #Java #Spring #JavaScript #TypeScript #HTML5 #CSS3 #React #Node #Express #PostgreSQL #MySQL #MongoDB #SQL #Git #Maven #SpringBoot #Hibernate #Microservices
@@ -38,17 +36,6 @@ Currently enhancing advanced English skills through courses, podcasts, movies, a
   <img align="center" alt="Ubuntu" height="30" src="https://img.icons8.com/color/48/000000/ubuntu.png">
   <img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 
-
-## Technologies I Master
-
-- Data Engineering
-- AI Prompt Engineer
-- Software Engineering
-- Java
-- Python
-- PostgreSQL, MySQL, MongoDB, SQL
-- Git
-- AWS
 
 ## Contact
 
