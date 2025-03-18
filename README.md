@@ -8,10 +8,12 @@
 ## Career Summary
 
 <p align="justify">
-I started my career in 2010 as a consultant and currently work as a developer in a corporate application. I have experience in various programming languages and technologies, focusing on Java, Python, C#, JPA, microservices, and SQL. Additionally, I am knowledgeable in Hibernate, Spring Boot, Oracle Apex, MongoDB, and MySQL.
+Technical Leader and Software Engineer with over 10 years of experience in software architecture, information security, machine learning, and full-stack development. Passionate about scalable solutions and technological innovation, with strong expertise in creating microservices, DevSecOps, and cloud computing (AWS, Azure, GCP).
+Currently, developing AI solutions, RESTful and GraphQL APIs, serverless computing, machine learning applied to business, and OWASP security. Holds an MBA in Software Engineering from USP, in addition to specializations in Big Data and Project Management. Certified in Scrum and AWS, always staying updated with best practices in MLOps and system scalability.
+Currently enhancing advanced English skills through courses, podcasts, movies, and daily conversations, expanding technical vocabulary and fluency in international meetings.
 </p>
 
-#Java #Spring #JavaScript #TypeScript #HTML5 #CSS3 #React #Redux #Node #Express #PostgreSQL #MySQL #MongoDB #SQL #Git #Maven #SpringBoot #Hibernate #Microservices
+#Java #Spring #JavaScript #TypeScript #HTML5 #CSS3 #React #Node #Express #PostgreSQL #MySQL #MongoDB #SQL #Git #Maven #SpringBoot #Hibernate #Microservices
 
 <div align="center">
   <a href="https://github.com/josivantarcio">
@@ -24,22 +26,18 @@ I started my career in 2010 as a consultant and currently work as a developer in
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png">
-  <img align="center" alt="Express.js" height="30" width="40" src="https://img.icons8.com/color/48/000000/express.png">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Ubuntu" height="30" src="https://img.icons8.com/color/48/000000/ubuntu.png">
-  <img align="center" alt="Linux" height="30" src="https://img.icons8.com/color/48/000000/linux.png">
-</div>
+  <img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+
 
 ## Technologies I Master
 
