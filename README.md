@@ -42,6 +42,7 @@ Currently enhancing advanced English skills through courses, podcasts, movies, a
 ## Technologies I Master
 
 - Data Engineering
+- AI Prompt Engineer
 - Software Engineering
 - Java
 - Python
