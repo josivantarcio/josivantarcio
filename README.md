@@ -41,12 +41,15 @@ Currently enhancing advanced English skills through courses, podcasts, movies, a
 
 ## Technologies I Master
 
+- Data Engineering
+- Software Engineering
 - Java, Spring
-- Python, C#, JavaScript, TypeScript
+- Python, JavaScript
 - HTML5, CSS3
-- React, Redux, Node.js, Express.js
+- React, Node.js
 - PostgreSQL, MySQL, MongoDB, SQL
-- Git, Maven, Spring Data JPA and Spring Data MongoDB
+- Git, Maven, Spring Boot
+- AWS
 
 ## Contact
 
