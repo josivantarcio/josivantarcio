@@ -30,7 +30,7 @@ Líder Técnico e Engenheiro de Software com mais de 10 anos de experiência em 
 *(Confira mais projetos pinned abaixo!)*
 
 ## Certificações
-- [AWS Certified Solutions Architect](https://www.credly.com/users/josevanoliveira)  
+- <a href="https://www.credly.com/users/josevanoliveira" target="_blank">AWS Certified Solutions Architect</a>  
 - Scrum Fundamentals Certified  
 - Especialização em Big Data e Gestão de Projetos  
 
