@@ -6,7 +6,7 @@
 - **Contato**: [LinkedIn](https://www.linkedin.com/in/josevanoliveira/) | [Email](mailto:josivantarcio@msn.com)
 
 ## Resumo Profissional
-Líder Técnico e Engenheiro de Software com mais de 10 anos de experiência em arquitetura de software, segurança, machine learning e desenvolvimento full-stack. Especialista em microservices, DevSecOps e soluções em nuvem (AWS, Azure, GCP). Desenvolvo APIs REST/GraphQL, computação serverless e soluções de IA, com foco em segurança OWASP. Possuo MBA pela USP e especializações em Big Data e Gestão de Projetos. Certificado em Scrum e AWS, apaixonado por MLOps e sistemas escaláveis. Fluência técnica em inglês em aprimoramento.
+Líder Técnico e Engenheiro de Software com mais de 6 anos de experiência em arquitetura de software, segurança, machine learning e desenvolvimento full-stack. Especialista em microservices, DevSecOps e soluções em nuvem (AWS, Azure, GCP). Desenvolvo APIs REST/GraphQL, computação serverless e soluções de IA, com foco em segurança OWASP. Possuo MBA pela USP e especializações em Big Data e Gestão de Projetos. Certificado em Scrum e AWS, apaixonado por MLOps e sistemas escaláveis. Fluência técnica em inglês em aprimoramento.
 
 ## Habilidades Técnicas
 - **Engenharia de Software**: Arquitetura de Software, Microservices, DevSecOps, Serverless, OWASP Security, MLOps  
