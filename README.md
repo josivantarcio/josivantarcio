@@ -1,43 +1,66 @@
-# 👋 Olá! Bem-vindo(a) ao meu perfil!
+# 👋 Hello! Welcome to my GitHub profile!
 
-## Sobre Mim
-- **Nome**: Josevan Tárcio Silva de Oliveira  
-- **Localização**: Limoeiro do Norte-CE, Brasil  
-- **Contato**: [LinkedIn](https://www.linkedin.com/in/josevanoliveira/) | [Email](mailto:josivantarcio@msn.com)
+## 🚀 About Me
 
-## Resumo Profissional
-Líder Técnico e Engenheiro de Software com mais de 6 anos de experiência em arquitetura de software, segurança, machine learning e desenvolvimento full-stack. Especialista em microservices, DevSecOps e soluções em nuvem (AWS, Azure, GCP). Desenvolvo APIs REST/GraphQL, computação serverless e soluções de IA, com foco em segurança OWASP. Possuo MBA pela USP e especializações em Big Data e Gestão de Projetos. Certificado em Scrum e AWS, apaixonado por MLOps e sistemas escaláveis. Fluência técnica em inglês em aprimoramento.
+👨‍💻 I'm **Josevan Oliveira**, a passionate **Software Engineer** focused on solving real-world problems through **Java development**, clean architecture and cloud-native solutions.  
+📍 Based in **Fortaleza, CE – Brazil**  
+🔗 Let’s connect: [LinkedIn](https://www.linkedin.com/in/josevanoliveira/) | [Email](mailto:josivantarcio@msn.com)
 
-## Habilidades Técnicas
-- **Engenharia de Software**: Arquitetura de Software, Microservices, DevSecOps, Serverless, OWASP Security, MLOps  
-- **Linguagens**: Java, Python, JavaScript, TypeScript, HTML5, CSS3, SQL  
-- **Frameworks e Bibliotecas**: Spring Boot, Hibernate, React, Node.js, Express  
-- **Bancos de Dados**: PostgreSQL, MySQL, MongoDB  
-- **Engenharia de Dados**: Big Data, ETL, Pipelines de Dados, Modelagem de Dados  
-- **Gerenciamento de Projetos**: Scrum, Agile, Planejamento e Execução de Projetos, Gestão de Equipes  
-- **Ferramentas e Plataformas**: Git, Maven, Docker, AWS, Azure, GCP  
+## 💼 Professional Snapshot
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+I’m a **Mid-Level Java Software Engineer** with around 6 years of experience in backend development, microservices architecture, and secure API design. I specialize in the Java ecosystem (Spring Boot, JPA, Maven), building **RESTful APIs**, automating data pipelines, and integrating systems across cloud platforms (AWS, Azure, GCP).
 
-## Projetos em Destaque
-- **[Workshop Spring Boot 3 JPA](https://github.com/josivantarcio/workshop-springboot3-jpa)**  
-  Projeto em Java 17 com Spring Boot 3 e PostgreSQL para gerenciamento de produtos, pedidos e pagamentos. Inclui H2 para desenvolvimento.
-- **[Project Chess Java](https://github.com/josivantarcio/project-chess-java)**  
-  Implementação de um jogo de xadrez em Java executado no terminal.
-- **[DSMovie](https://github.com/josivantarcio/dsmovie)**  
-  Aplicação full-stack para catalogação de filmes.
-
-*(Confira mais projetos pinned abaixo!)*
-
-## Certificações
-- <a href="https://www.credly.com/users/josevanoliveira" target="_blank">AWS Certified Solutions Architect</a>  
-- Scrum Fundamentals Certified  
-- Especialização em Big Data e Gestão de Projetos  
-
-## Idiomas
-- Português (Nativo)  
-- Inglês (Avançado - em aprimoramento técnico)
+With a solid foundation in software architecture, DevSecOps, and agile practices, I’ve worked on projects involving fraud detection, system modernization, and scalable deployments. Currently pursuing an MBA in Software Engineering at USP and certified in AWS and Scrum, I’m on a mission to build reliable, scalable, and secure solutions that generate real business value.
 
 ---
-*“Construindo soluções escaláveis e seguras para problemas reais.”*
+
+## 🧰 Tech Toolbox
+
+- **Core Stack**: Java • Spring Boot • JPA • Hibernate • PostgreSQL • Maven • Git • RESTful APIs  
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda) • Docker • Kubernetes • CI/CD • GitHub Actions  
+- **Frontend (basic proficiency)**: React • HTML5 • CSS3 • TypeScript  
+- **Data & ML (support layer)**: Python • Pandas • Scikit-learn • Spark  
+- **Agile & Architecture**: Scrum • Kanban • Microservices • OWASP Security • MLOps
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+
+---
+
+## 📂 Featured Projects
+
+- 🔧 **[Workshop Spring Boot 3 + JPA](https://github.com/josivantarcio/workshop-springboot3-jpa)**  
+  Full-stack project using Java 17, Spring Boot 3, and PostgreSQL. Includes RESTful APIs, H2 integration for dev, and a domain-driven model.
+
+- ♟ **[Project Chess Java](https://github.com/josivantarcio/project-chess-java)**  
+  Classic chess game implemented in Java, CLI-based. Focuses on object-oriented programming and game logic.
+
+- 🎬 **[DSMovie](https://github.com/josivantarcio/dsmovie)**  
+  A movie catalog rating app using Spring Boot and ReactJS. Integrates backend API with frontend UI and PostgreSQL database.
+
+📌 *Explore more pinned projects below!*
+
+---
+
+## 📜 Certifications
+
+- 🥇 [AWS Certified Solutions Architect – Associate](https://www.credly.com/users/josevanoliveira)  
+- 🌀 Scrum Fundamentals Certified – Scrum Alliance  
+- 📊 Big Data & Project Management – Postgraduate Track
+
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese: Native  
+- 🇺🇸 English: Intermediate (B1 – improving fluency & technical communication)  
+- 🇫🇷 French: Basic
+
+---
+
+## ✨ Personal Motto
+
+> **“I build scalable and secure systems that turn code into value.”**
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josivantarcio&show_icons=true&theme=radical)
