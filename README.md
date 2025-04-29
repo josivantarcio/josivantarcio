@@ -8,9 +8,11 @@
 
 ## 💼 Professional Snapshot
 
-I’m a **Mid-Level Java Software Engineer** with around 6 years of experience in backend development, microservices architecture, and secure API design. I specialize in the Java ecosystem (Spring Boot, JPA, Maven), building **RESTful APIs**, automating data pipelines, and integrating systems across cloud platforms (AWS, Azure, GCP).
+Results-driven **Java Developer** with proven expertise in enterprise software development and cloud integration. Specializing in Spring Boot microservices, RESTful API architecture, and AWS cloud infrastructure. 
 
-With a solid foundation in software architecture, DevSecOps, and agile practices, I’ve worked on projects involving fraud detection, system modernization, and scalable deployments. Currently pursuing an MBA in Software Engineering at USP and certified in AWS and Scrum, I’m on a mission to build reliable, scalable, and secure solutions that generate real business value.
+Successfully delivered backend integration projects, executed system migrations to cloud platforms, and implemented automation solutions that increased operational efficiency by 40%. Combining strong technical skills with project management expertise to deliver scalable, secure, and high-performance applications.
+
+Committed to continuous improvement in software architecture, DevOps practices, and emerging technologies while maintaining the highest standards of code quality and security.
 
 ---
 
