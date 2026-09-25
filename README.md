@@ -25,22 +25,22 @@ Lately I've also been shipping **TypeScript / React Native** apps for fleet and 
 ## Featured projects
 
 **[MakiHub](https://github.com/josivantarcio/MakiHub)** — REST API for sushi delivery management.
-`Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL` · Result: [preencher]
+`Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL`
 
 **[RotaFácil – Fleet & Delivery Management](https://github.com/josivantarcio/GestaoFrotaEntrega)** — Fleet and delivery management system with mobile app, iOS app, back-office and desktop notifier.
-`TypeScript` `React Native` `Expo` · Result: [preencher]
+`TypeScript` `React Native` `Expo`
 
 **[E-commerce App](https://github.com/josivantarcio/ecommerce-app)** — Full-stack e-commerce platform with JWT authentication.
-`Java 21` `Spring Boot` `React` `PostgreSQL` `Material-UI` · Result: [preencher]
+`Java 21` `Spring Boot` `React` `PostgreSQL` `Material-UI`
 
 **[API Portfolio](https://github.com/josivantarcio/api-portfolio)** — Portfolio management system API.
-`Java` `Spring Boot` · Result: [preencher]
+`Java` `Spring Boot`
 
 **[Parking Control](https://github.com/josivantarcio/parking-control)** — REST API for vehicle registration, entry and exit in parking lots.
-`Java` `Spring Boot` · Result: [preencher]
+`Java` `Spring Boot`
 
 **[DSCatalog](https://github.com/josivantarcio/dscatalog)** — Product catalog with CRUD, user authentication and role-based access.
-`Java` `Spring Boot` `Spring Security` · Result: [preencher]
+`Java` `Spring Boot` `Spring Security`
 
 ## GitHub activity
 
