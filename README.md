@@ -1,68 +1,79 @@
-# 👋 Hello! Welcome to my GitHub profile!
+<div align="center">
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&center=true&vCenter=true&width=600&color=7AA2F7&lines=Hi,+I'm+Josevan+Oliveira;Java+Developer+%7C+Spring+Boot;AWS+Certified+Solutions+Architect" alt="Typing SVG" />
 
-👨‍💻 I'm **Josevan Oliveira**, a passionate **Software Engineer** focused on solving real-world problems through **Java development**, clean architecture and cloud-native solutions.  
-📍 Based in **Fortaleza, CE – Brazil**  
-🔗 Let’s connect: [LinkedIn](https://www.linkedin.com/in/josevanoliveira/) | [Email](mailto:josivantarcio@msn.com)
+</div>
 
-## 💼 Professional Snapshot
+## About me
 
-Results-driven **Java Developer** with proven expertise in enterprise software development and cloud integration. Specializing in Spring Boot microservices, RESTful API architecture, and AWS cloud infrastructure. 
+<div align="center">
 
-Successfully delivered backend integration projects, executed system migrations to cloud platforms, and implemented automation solutions that increased operational efficiency by 40%. Combining strong technical skills with project management expertise to deliver scalable, secure, and high-performance applications.
+I'm a **Java developer** from **Fortaleza, CE – Brazil**, building REST APIs and backend systems with **Spring Boot, JPA/Hibernate and PostgreSQL**.
+I hold an **MBA in Software Engineering (USP)** and the **AWS Certified Solutions Architect – Associate** certification.
+Lately I've also been shipping **TypeScript / React Native** apps for fleet and delivery logistics.
 
-Committed to continuous improvement in software architecture, DevOps practices, and emerging technologies while maintaining the highest standards of code quality and security.
+</div>
 
----
+## Stack & tools
 
-## 🧰 Tech Toolbox
+<div align="center">
 
-- **Core Stack**: Java • Spring Boot • JPA • Hibernate • PostgreSQL • Maven • Git • RESTful APIs  
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda) • Docker • Kubernetes • CI/CD • GitHub Actions  
-- **Frontend (basic proficiency)**: React • HTML5 • CSS3 • TypeScript  
-- **Data & ML (support layer)**: Python • Pandas • Scikit-learn • Spark  
-- **Agile & Architecture**: Scrum • Kanban • Microservices • OWASP Security • MLOps
+[![My stack](https://skillicons.dev/icons?i=java,spring,postgres,maven,aws,docker,kubernetes,githubactions,react,ts,python,git&perline=12)](https://skillicons.dev)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+</div>
 
----
+## Featured projects
 
-## 📂 Featured Projects
+**[MakiHub](https://github.com/josivantarcio/MakiHub)** — REST API for sushi delivery management.
+`Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL` · Result: [preencher]
 
-- 🔧 **[Workshop Spring Boot 3 + JPA](https://github.com/josivantarcio/workshop-springboot3-jpa)**  
-  Full-stack project using Java 17, Spring Boot 3, and PostgreSQL. Includes RESTful APIs, H2 integration for dev, and a domain-driven model.
+**[RotaFácil – Fleet & Delivery Management](https://github.com/josivantarcio/GestaoFrotaEntrega)** — Fleet and delivery management system with mobile app, iOS app, back-office and desktop notifier.
+`TypeScript` `React Native` `Expo` · Result: [preencher]
 
-- ♟ **[Project Chess Java](https://github.com/josivantarcio/project-chess-java)**  
-  Classic chess game implemented in Java, CLI-based. Focuses on object-oriented programming and game logic.
+**[E-commerce App](https://github.com/josivantarcio/ecommerce-app)** — Full-stack e-commerce platform with JWT authentication.
+`Java 21` `Spring Boot` `React` `PostgreSQL` `Material-UI` · Result: [preencher]
 
-- 🎬 **[DSMovie](https://github.com/josivantarcio/dsmovie)**  
-  A movie catalog rating app using Spring Boot and ReactJS. Integrates backend API with frontend UI and PostgreSQL database.
+**[API Portfolio](https://github.com/josivantarcio/api-portfolio)** — Portfolio management system API.
+`Java` `Spring Boot` · Result: [preencher]
 
-📌 *Explore more pinned projects below!*
+**[Parking Control](https://github.com/josivantarcio/parking-control)** — REST API for vehicle registration, entry and exit in parking lots.
+`Java` `Spring Boot` · Result: [preencher]
 
----
+**[DSCatalog](https://github.com/josivantarcio/dscatalog)** — Product catalog with CRUD, user authentication and role-based access.
+`Java` `Spring Boot` `Spring Security` · Result: [preencher]
 
-## 📜 Certifications
+## GitHub activity
 
-- 🥇 [AWS Certified Solutions Architect – Associate](https://www.credly.com/users/josevanoliveira)  
-- 🌀 Scrum Fundamentals Certified – Scrum Alliance  
-- 📊 Big Data & Project Management – Postgraduate Track
+<div align="center">
 
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=josivantarcio&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🌍 Languages
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=josivantarcio&show_icons=true&theme=tokyonight)
 
-- 🇧🇷 Portuguese: Native  
-- 🇺🇸 English: Intermediate (B1 – improving fluency & technical communication)  
-- 🇫🇷 French: Basic
+![Trophy](https://github-trophies.vercel.app/?username=josivantarcio&theme=tokyonight)
 
----
+![Contributions](https://ghchart.rshah.org/7aa2f7/josivantarcio)
 
-## ✨ Personal Motto
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josivantarcio/josivantarcio/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josivantarcio/josivantarcio/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/josivantarcio/josivantarcio/output/github-snake.svg" />
+</picture>
 
-> **“I build scalable and secure systems that turn code into value.”**
+</div>
 
----
+## Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josivantarcio&show_icons=true&theme=radical)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/users/josevanoliveira)
+- Scrum Fundamentals Certified – Scrum Alliance
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josevanoliveira-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26)](https://www.linkedin.com/in/josevanoliveira/)
+[![Email](https://img.shields.io/badge/Email-josivantarcio%40msn.com-7AA2F7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1b26)](mailto:josivantarcio@msn.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josivantarcio.github.io-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1b26)](https://josivantarcio.github.io/my-portfolio/)
+[![Credly](https://img.shields.io/badge/Credly-Badges-7AA2F7?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1b26)](https://www.credly.com/users/josevanoliveira)
+
+</div>
