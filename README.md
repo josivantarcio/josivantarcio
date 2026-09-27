@@ -1,79 +1,99 @@
-<div align="center">
+# Josevan Oliveira
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&center=true&vCenter=true&width=600&color=7AA2F7&lines=Hi,+I'm+Josevan+Oliveira;Java+Developer+%7C+Spring+Boot;AWS+Certified+Solutions+Architect" alt="Typing SVG" />
+<p align="left">
+  <strong>Software Engineer | Java & Cloud Specialist</strong><br>
+  <span>Fortaleza, CE — Brazil &nbsp;•&nbsp; Open to Remote & International Relocation</span>
+</p>
 
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/josevanoliveira/"><img src="https://img.shields.io/badge/LinkedIn-Josevan_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/josevanoliveira"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified" /></a>
+  <a href="https://josivantarcio.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-josivantarcio.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:josivantarcio@msn.com"><img src="https://img.shields.io/badge/Email-josivantarcio%40msn.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+</p>
 
-## About me
+---
 
-<div align="center">
+### Executive Profile
 
-I'm a **Java developer** from **Fortaleza, CE – Brazil**, building REST APIs and backend systems with **Spring Boot, JPA/Hibernate and PostgreSQL**.
-I hold an **MBA in Software Engineering (USP)** and the **AWS Certified Solutions Architect – Associate** certification.
-Lately I've also been shipping **TypeScript / React Native** apps for fleet and delivery logistics.
+Software Engineer with extensive background across the software lifecycle, specialized in **backend architecture**, **Java 21**, and **cloud-native systems**.
 
-</div>
+Currently serving as **Head of Communication Technology** at the Municipal Government of Limoeiro do Norte (SEGOV), where I architected and engineered mission-critical public administration software implementing **Hexagonal Architecture**, centralized authentication via **Keycloak (OAuth2/OIDC, X.509)**, and cryptographic digital signatures (**PAdES / ICP-Brasil standards**).
 
-## Stack & tools
+Previously engineered scalable RESTful APIs and microservices with **Spring Boot**, **Quarkus**, and **AWS** at DataLife Brazil. Holds an **MBA in Software Engineering from USP (Universidade de São Paulo)** and the **AWS Certified Solutions Architect – Associate** certification, with strong commitment to clean architecture, distributed systems resilience, and automated testing rigor.
 
-<div align="center">
+---
 
-[![My stack](https://skillicons.dev/icons?i=java,spring,postgres,maven,aws,docker,kubernetes,githubactions,react,ts,python,git&perline=12)](https://skillicons.dev)
+### Technical Competencies
 
-</div>
+| Domain | Technologies & Practices |
+| :--- | :--- |
+| **Backend & Languages** | Java (8, 11, 17, 21), TypeScript, Python, SQL, C# |
+| **Frameworks & Core** | Spring Boot 3.x, Quarkus, Spring Security, Hibernate / JPA, Node.js |
+| **Architecture & Design** | Hexagonal Architecture (Ports & Adapters), Clean Architecture, Microservices, Domain-Driven Design (DDD), RESTful APIs, SOLID, Design Patterns |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Docker Compose, Kubernetes, CI/CD (GitHub Actions), Linux, Git / Git Flow |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis, MongoDB, Microsoft SQL Server |
+| **Security & Identity** | Keycloak, OAuth2, OpenID Connect (OIDC), X.509 PKI, PAdES / ICP-Brasil Cryptography, JWT, OWASP Top 10 |
+| **Testing & Quality** | JUnit 5, Mockito, Testcontainers, ArchUnit, JaCoCo |
 
-## Featured projects
+---
 
-**[MakiHub](https://github.com/josivantarcio/MakiHub)** — REST API for sushi delivery management.
-`Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL`
+### Highlighted Engineering Projects
 
-**[RotaFácil – Fleet & Delivery Management](https://github.com/josivantarcio/GestaoFrotaEntrega)** — Fleet and delivery management system with mobile app, iOS app, back-office and desktop notifier.
-`TypeScript` `React Native` `Expo`
+#### 🏛️ SIGA — Sistema Integrado de Gestão Administrativa
+*Enterprise Public Administration System · Municipal Government of Limoeiro do Norte*
 
-**[E-commerce App](https://github.com/josivantarcio/ecommerce-app)** — Full-stack e-commerce platform with JWT authentication.
-`Java 21` `Spring Boot` `React` `PostgreSQL` `Material-UI`
+Digital process management and electronic protocol platform modernizing administrative procedures across public departments:
+- **Architecture:** Engineered following Hexagonal Architecture (Ports & Adapters) ensuring complete isolation of domain logic from frameworks and infrastructure.
+- **Identity & SSO:** Centralized identity and access management via **Keycloak** (OAuth2/OIDC), supporting **X.509 client certificate authentication** and federal **gov.br** single sign-on integration.
+- **Digital Signatures:** Integrated cryptographic digital signatures compliant with **PAdES (PDF Advanced Electronic Signatures)** under **ICP-Brasil** standards for A1 and A3 hardware/software certificates.
+- **Automated Quality Gate:** Multi-layered test suites combining **JUnit 5**, **Testcontainers** (isolated database fixtures), and **ArchUnit** architecture rule enforcement with strict JaCoCo coverage gates.
+- **Stack:** `Java 21` `Spring Boot 3` `PostgreSQL` `React` `TypeScript` `Docker` `Keycloak`
 
-**[API Portfolio](https://github.com/josivantarcio/api-portfolio)** — Portfolio management system API.
-`Java` `Spring Boot`
+#### 🍣 [MakiHub — Delivery Management Platform](https://github.com/josivantarcio/MakiHub)
+*Production-ready RESTful API for food delivery logistics & order fulfillment*
 
-**[Parking Control](https://github.com/josivantarcio/parking-control)** — REST API for vehicle registration, entry and exit in parking lots.
-`Java` `Spring Boot`
+- **Highlights:** Clean layered design, entity lifecycle management via JPA/Hibernate, query optimization on PostgreSQL, and structured exception handling.
+- **Stack:** `Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Docker` `REST APIs`
 
-**[DSCatalog](https://github.com/josivantarcio/dscatalog)** — Product catalog with CRUD, user authentication and role-based access.
-`Java` `Spring Boot` `Spring Security`
+#### 🛒 [E-Commerce Platform](https://github.com/josivantarcio/ecommerce-app)
+*Full-stack commerce solution with robust token authentication and product catalog*
 
-## GitHub activity
+- **Highlights:** Stateless JWT authentication, role-based authorization (RBAC), database migrations, and responsive UI integration.
+- **Stack:** `Java 21` `Spring Boot 3` `Spring Security` `React` `PostgreSQL` `Material-UI`
 
-<div align="center">
+#### 🚚 [RotaFácil — Fleet & Logistics Management](https://github.com/josivantarcio/GestaoFrotaEntrega)
+*Comprehensive logistics system for dispatch operations and delivery fleet tracking*
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=josivantarcio&theme=tokyonight)](https://git.io/streak-stats)
+- **Highlights:** Cross-platform mobile client for drivers paired with backend dispatch administration and real-time operational events.
+- **Stack:** `TypeScript` `React Native` `Expo` `Node.js` `REST APIs`
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=josivantarcio&show_icons=true&theme=tokyonight)
+#### 🅿️ [Parking Control API](https://github.com/josivantarcio/parking-control)
+*Vehicle access control API with rigorous validation and auditability*
 
-![Trophy](https://github-trophies.vercel.app/?username=josivantarcio&theme=tokyonight)
+- **Highlights:** Adherence to strict REST constraints, centralized validation, and role authorization with Spring Security.
+- **Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Maven`
 
-![Contributions](https://ghchart.rshah.org/7aa2f7/josivantarcio)
+#### 📦 [DSCatalog](https://github.com/josivantarcio/dscatalog)
+*Product catalog and inventory management backend*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josivantarcio/josivantarcio/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josivantarcio/josivantarcio/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/josivantarcio/josivantarcio/output/github-snake.svg" />
-</picture>
+- **Highlights:** Layered architecture, pagination, role-based security filters, and unit testing coverage.
+- **Stack:** `Java` `Spring Boot` `Spring Security` `JPA / Hibernate` `PostgreSQL`
 
-</div>
+---
 
-## Certifications
+### Education & Certifications
 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/users/josevanoliveira)
-- Scrum Fundamentals Certified – Scrum Alliance
+- **MBA in Software Engineering** — Universidade de São Paulo (USP / ESALQ)
+  - *Specialization:* Software Architecture, Cloud Computing, Distributed Systems Design
+- **Postgraduate in Big Data & Data Science** — FASUL Educacional
+- **Postgraduate in Project Management** — FASUL Educacional
+- **B.S. in Analysis and Systems Development** — UNOPAR
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/users/josevanoliveira)** — Amazon Web Services (AWS)
+- **Scrum Fundamentals Certified (SFC)** — Scrum Alliance
 
-## Contact
+---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josevanoliveira-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26)](https://www.linkedin.com/in/josevanoliveira/)
-[![Email](https://img.shields.io/badge/Email-josivantarcio%40msn.com-7AA2F7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1b26)](mailto:josivantarcio@msn.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-josivantarcio.github.io-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1a1b26)](https://josivantarcio.github.io/my-portfolio/)
-[![Credly](https://img.shields.io/badge/Credly-Badges-7AA2F7?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1b26)](https://www.credly.com/users/josevanoliveira)
-
-</div>
+<p align="center">
+  <sub>Built with architectural discipline & clean code principles. © Josevan Oliveira</sub>
+</p>
